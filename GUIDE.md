@@ -1,6 +1,6 @@
-# Next.js Pages Router Tailwind TypeScript Boilerplate Setup
+# Next.js Tailwind TypeScript Boilerplate Setup
 
-This guide walks you through setting up a Next.js application using the Pages Router, TypeScript, Tailwind CSS, Prettier, ESLint, Husky, Lint-Staged, and CommitLint. With these tools in place, your development workflow will include automatic linting, formatting, and standardized commit messages.
+This guide walks you through setting up a Next.js application using TypeScript, Tailwind CSS, Prettier, ESLint, Husky, Lint-Staged, and CommitLint. With these tools in place, your development workflow will include automatic linting, formatting, and standardized commit messages.
 
 ## Step-by-Step Setup
 
@@ -12,16 +12,7 @@ Start by creating a new Next.js app with TypeScript, ESLint, and Tailwind CSS us
 npx create-next-app
 ```
 
-Then, answer the prompts as follows:
-
-- What is your project name? → `name-of-project`
-- Would you like to use TypeScript? → `Yes`
-- Would you like to use ESLint? → `Yes`
-- Would you like to use Tailwind CSS? → `Yes`
-- Would you like your code inside a `src/` directory? → `No`
-- Would you like to use App Router (recommended)? → `No`
-- Would you like to use Turbopack for Next Dev? → `No`
-- Would you like to customize the import alias (@/\* by default)? → `No`
+Answer the prompts that follow and select yes for TypeScript, ESLint, and Tailwind CSS.
 
 ### 2. Install Dependencies
 
@@ -191,6 +182,6 @@ This setup will ensure that `console.log` statements are treated as errors (with
 
 ## Conclusion
 
-By following these steps, you'll have a Next.js boilerplate with Pages Router, TypeScript, Tailwind CSS, Prettier, ESLint, Husky, and CommitLint, all integrated into your workflow. This setup will ensure that your code is consistently formatted, free from linting errors, and follows standardized commit messages—making your development process smoother and more maintainable.
+By following these steps, you'll have a Next.js boilerplate with TypeScript, Tailwind CSS, Prettier, ESLint, Husky, and CommitLint, all integrated into your workflow. This setup will ensure that your code is consistently formatted, free from linting errors, and follows standardized commit messages—making your development process smoother and more maintainable.
 
 Happy coding!
