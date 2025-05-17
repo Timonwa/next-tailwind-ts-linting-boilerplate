@@ -10,11 +10,15 @@ A starter boilerplate with **Next.js**, **TypeScript**, **Tailwind CSS**, **Pret
 - **[Lint-Staged](https://www.npmjs.com/package/lint-staged)** – run scripts on staged files
 - **[CommitLint](https://commitlint.js.org/)** – enforce conventional commit messages
 
-This setup enforces consistent code style, prevents common errors, and keeps your commit history clean—streamlining your workflow from start to finish.
+This setup enforces consistent code style, prevents common errors, and keeps your commit history clean—streamlining your development workflow.
 
-## 🧱 Pages Router & App Router Support
+## 🧱 Pages Router & App Router
 
-By default, this boilerplate is configured with the **Pages Router**.
-If you'd like to use the **App Router**, check the `_app_router_setup` directory for a matching setup using the same tooling and structure.
+This boilerplate supports both routing strategies:
 
-> 📘 See [`guide.md`](./guide.md) for full setup instructions.
+* **Pages Router setup**: see [`pages-router-setup/`](./pages-router-setup/)
+* **App Router setup**: see [`app-router-setup/`](./app-router-setup/)
+
+Both folders include the same development tooling and configuration. Choose the one that fits your project needs.
+
+> 📘 See [`guide.md`](./guide.md) for full setup instructions. 
