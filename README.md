@@ -1,6 +1,6 @@
 # Next.js Tailwind TypeScript Linting Boilerplate
 
-A modern, zero-friction boilerplate for building robust and maintainable **Next.js** applications with:
+A starter boilerplate with Next.js, TypeScript, Tailwind CSS, Prettier, ESLint, Husky, Lint-Staged, and CommitLint — designed to help you write consistent, clean, and maintainable code with a smooth development workflow.
 
 - **[TypeScript](https://www.typescriptlang.org/)** – static type checking for JavaScript
 - **[Tailwind CSS](https://tailwindcss.com/)** – utility-first CSS framework
