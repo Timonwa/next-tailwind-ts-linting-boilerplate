@@ -21,4 +21,4 @@ This boilerplate supports both routing strategies:
 
 Both folders include the same development tooling and configuration. Choose the one that fits your project needs.
 
-> 📘 See [`guide.md`](./Guide.md) for full setup instructions. 
+> 📘 See [`guide.md`](./GUIDE.md) for full setup instructions. 
